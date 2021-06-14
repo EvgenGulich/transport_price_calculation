@@ -1,0 +1,7 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+h3 {
+    @apply text-2xl py-2 font-serif font-extrabold text-center text-blue-400
+}
